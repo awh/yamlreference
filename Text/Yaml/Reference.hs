@@ -22,7 +22,7 @@ module Text.Yaml.Reference
   (
     -- Basic parsing:
     Code(..),
-    Token,
+    Token(..),
     Tokenizer,
     yaml,
     -- For testing:
